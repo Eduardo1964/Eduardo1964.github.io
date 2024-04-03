@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Details"
-  avatar           : "/assets/images/bio-image.jpg"
+  avatar           : "./assets/images/bio_image.jpg"
   bio              : "Designing and deploying analytical solutions"
   location         : "Calgary, AB"
   email            :
