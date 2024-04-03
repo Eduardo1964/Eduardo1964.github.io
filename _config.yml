@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Eduardo Melo"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Data Science | Business Intelligence | Analytics"
 name                     : "Eduardo Melo"
 description              : "Data Science | Business Intelligence | Analytics"
 url                      : # the base hostname & protocol for your site e.g. "https://Eduardo1964.github.io"
@@ -129,8 +129,8 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
     - label: "Linkedin"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   # url: "https://www.linkedin.com/in/eduardomelophd/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/eduardomelophd/"
 
 # Site Footer
 footer:
@@ -141,18 +141,18 @@ footer:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url:
-      - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Eduardo1964"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    #   - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/Eduardo1964"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
       # url:
     # - label: "Bitbucket"
     #   icon: "fab fa-fw fa-bitbucket"
     #   # url:
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/eduardomelophd/"
+    # - label: "Linkedin"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://www.linkedin.com/in/eduardomelophd/"
 
 
 # Reading Files
