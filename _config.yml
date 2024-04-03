@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Details"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A **Data Scientist | Researcher** with over 10 years of experience."
+  bio              : "Designing and deploying analytical solutions"
   location         : "Calgary, AB"
   email            :
   links:
